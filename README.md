@@ -186,6 +186,7 @@ You run these yourself, on your own VPS or cluster — the direct alternative to
 
 - [**Coolify**](https://coolify.io/) — The most feature-complete all-rounder and most popular of the three (~57,000+ GitHub stars): 280+ one-click services, Docker Compose support, native multi-server, per-branch preview environments, free self-hosted tier under Apache-2.0. Fast release cadence — pin versions in production.
 - [**Dokploy**](https://github.com/dokploy/dokploy) — Fast-rising lightweight challenger (~35,000+ stars): Docker Swarm + Traefik, clean modern UI, native Compose support. Still pre-1.0; some features live in a proprietary module, so check the license split before committing.
+- [**Peon**](https://peon.sh/) — Open source self-hosted Docker deployment platform with Git push deploys, Compose, databases, TLS, backups, workspace RBAC, and a built-in Streamable HTTP MCP server for agents. Coolify/Dokploy alternative with project-level permissions.
 - [**CapRover**](https://caprover.com/) — The battle-tested veteran, live since 2017 (~13,000–15,000 stars): rock-stable, Docker Swarm-based, 100+ one-click apps, native multi-node clustering. Dated UI, slower release cadence, limited Compose support (uses its own `captain-definition` format instead), no built-in database tooling.
 
 **Also widely used:**
